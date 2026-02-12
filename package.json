@@ -1,0 +1,39 @@
+{
+  "name": "outtacouch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@clerk/clerk-expo": "^2.19.22",
+    "@clerk/clerk-react": "^5.60.0",
+    "@clerk/types": "^4.101.14",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-navigation/bottom-tabs": "^7.12.0",
+    "@react-navigation/native": "^7.1.28",
+    "@react-navigation/native-stack": "^7.12.0",
+    "expo": "~54.0.33",
+    "expo-auth-session": "^7.0.10",
+    "expo-crypto": "^15.0.8",
+    "expo-secure-store": "^15.0.8",
+    "expo-status-bar": "~3.0.9",
+    "expo-web-browser": "^15.0.10",
+    "firebase": "^12.9.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-calendars": "^1.1314.0",
+    "react-native-deck-swiper": "^2.0.19",
+    "react-native-safe-area-context": "^5.6.2",
+    "react-native-screens": "~4.16.0",
+    "react-native-svg": "15.12.1",
+    "react-native-vector-icons": "^10.3.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "@expo/ngrok": "^4.1.3"
+  }
+}

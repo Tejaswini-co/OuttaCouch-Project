@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Outtacouch",
+    "slug": "Outtacouch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.outtacouch.app"
+    },
+    "web": {}
+  }
+}
