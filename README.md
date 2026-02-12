@@ -111,10 +111,6 @@ OuttaCouch/
 2. Enable Firestore Database
 3. Copy your config keys to the `.env` file
 
-## 📱 Screenshots
-
-*Add your app screenshots here*
-
 ## 🤝 Contributing
 
 1. Fork the project
